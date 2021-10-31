@@ -1,0 +1,4 @@
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Release\A.exe.config
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Release\Interop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Release\Addsong.vbproj.ResolveComReference.cache

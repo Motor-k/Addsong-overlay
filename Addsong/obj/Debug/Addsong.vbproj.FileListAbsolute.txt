@@ -1,0 +1,57 @@
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\Addsong.exe.config
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\Addsong.exe
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\Addsong.pdb
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\Addsong.xml
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.vbprojResolveAssemblyReference.cache
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.Form1.resources
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.Resources.resources
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.vbproj.GenerateResource.Cache
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.exe
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.xml
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.pdb
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Motor\AppData\Local\Temporary Projects\Addsong\obj\Debug\Addsong.vbproj.ResolveComReference.cache
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.exe.config
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbproj.ResolveComReference.cache
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.exe
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.xml
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.pdb
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.exe
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.pdb
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.xml
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbprojResolveAssemblyReference.cache
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Form1.resources
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Resources.resources
+C:\Users\Motor\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbproj.GenerateResource.Cache
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbproj.ResolveComReference.cache
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbprojResolveAssemblyReference.cache
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Form1.resources
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Resources.resources
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbproj.GenerateResource.Cache
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Form2.resources
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Form3.resources
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.Form4.resources
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.exe.config
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.exe.manifest
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.application
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.exe
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.pdb
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\bin\Debug\Addsong.xml
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.exe.manifest
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.application
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.exe
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.xml
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.pdb
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.vbproj.CoreCompileInputs.cache
+C:\Users\Gendouki\Documents\Visual Studio 2015\Projects\Addsong\Addsong\obj\Debug\Addsong.TrustInfo.xml
